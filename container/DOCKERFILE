@@ -1,0 +1,4 @@
+FROM centos:latest
+MAINTAINER "Mitch Ferrer"
+
+RUN yum update -y
